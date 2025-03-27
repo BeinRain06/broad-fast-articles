@@ -108,6 +108,13 @@ Link: [https://www.youtube.com/watch?v=WONRS7BLh4g](https://www.youtube.com/watc
 Link: [https://www.youtube.com/watch?v=ogM1mCAZeS8](https://www.youtube.com/watch?v=ogM1mCAZeS8)
 
 **Two**
+1.Tutorial: "You have been reading wrong all your life" - 23:20s
+
+[spoonFedStudy] - Youtube
+
+Link: [https://www.youtube.com/watch?v=uiNB-6SuqVA&t=1218s](https://www.youtube.com/watch?v=uiNB-6SuqVA&t=1218s)
+
+**Three**
 1.Tutorial: "How to read so that you retain information" - 23:20s
 
 [Jeffrey Kaplan] - Youtube
