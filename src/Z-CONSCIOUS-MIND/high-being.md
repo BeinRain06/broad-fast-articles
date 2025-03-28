@@ -80,7 +80,7 @@ Link: [https://www.youtube.com/watch?v=xj7tFY2Y2XU](https://www.youtube.com/watc
 
 Link: [https://www.youtube.com/watch?v=NeWWfmc6MaI](https://www.youtube.com/watch?v=NeWWfmc6MaI)
 
-### 3.PRODUCTIVITY
+### 4.PRODUCTIVITY
 
 **One**
 1.Tutorial: "How to set Systems insted of Goals| A system that will change your life" - 15:20s - 24:04s
@@ -98,7 +98,7 @@ Link: [https://www.youtube.com/watch?v=f9IpkxXENkw](https://www.youtube.com/watc
 
 Link: [https://www.youtube.com/watch?v=WONRS7BLh4g](https://www.youtube.com/watch?v=WONRS7BLh4g)
 
-### 3.Reading
+### 5.Reading
 
 **One**
 1.Tutorial: "Readers are Leaders| Phuong anh Nguyen Ngoc" - 15:33s
@@ -121,7 +121,7 @@ Link: [https://www.youtube.com/watch?v=uiNB-6SuqVA&t=1218s](https://www.youtube.
 
 Link: [https://www.youtube.com/watch?v=uiNB-6SuqVA&t=1218s](https://www.youtube.com/watch?v=uiNB-6SuqVA&t=1218s)
 
-### 3.Writings
+### 6.Writings
 
 **One**
 1.Tutorial: "Basics Writing skills w| Cecile Tyson (1988)" - 01:38:48s
@@ -157,3 +157,12 @@ Link: [https://www.gimp.org/tutorials/Layer_Masks/](https://www.gimp.org/tutoria
 [Pat David] - gimp.org
 
 Link: [https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/)
+
+### 7.CREATIVITY
+
+**One**
+1.Tutorial: "Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy" - 01:03:53s
+
+[Brandon Sanderson] - Youtube
+
+Link: [https://www.youtube.com/watch?v=-6HOdHEeosc](https://www.youtube.com/watch?v=-6HOdHEeosc)
